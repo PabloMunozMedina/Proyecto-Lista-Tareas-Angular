@@ -1,0 +1,13 @@
+<div id="cabecera">
+    <h1>LISTA TAREAS</h1>
+    <div id="añadir">
+        <label for = "nombre">Escribe nombre tarea</label>&nbsp;
+        <input type= "text" [(ngModel)] = 'nombre' name="nombre">
+        &nbsp; &nbsp;
+        <label for = "descripcion">Descripción</label>&nbsp;
+        <input type = "text" [(ngModel)] = 'descripcion' name="descripcion">
+        &nbsp; &nbsp;
+        <button (click)="anadir()">Añadir Tarea</button>  
+    </div>
+</div>
+

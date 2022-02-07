@@ -1,0 +1,12 @@
+#app{
+    background: linear-gradient(to bottom right, rgba(216, 29, 122, 0.589), rgba(29, 145, 240, 0.555));
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 100%;
+    margin: 2em;
+    padding: 0.5rem;
+    text-align: center; 
+}

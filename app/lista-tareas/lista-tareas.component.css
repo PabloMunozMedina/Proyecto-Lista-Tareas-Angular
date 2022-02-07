@@ -1,0 +1,51 @@
+.completado{
+    background-color: rgb(200, 250, 125);
+    border: 2px solid #000;
+    border-radius: 20px;
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ol{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    background-color:rgba(202, 160, 241, 0.685);
+    border-radius: 20px;
+    list-style: none;
+}
+
+#listatareas{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 5%;
+    padding: 0.5rem;
+    margin-top: 1%;
+    margin-left: 8%;
+    margin-right: 15%;
+    border-radius: 20px;
+    text-align: center; 
+}
+
+#contenedor_opciones{
+    background-color:rgba(202, 160, 241, 0.685);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+
+}
+#info{
+    flex-direction: column;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#opciones{
+    flex-direction: column;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

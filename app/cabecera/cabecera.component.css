@@ -1,0 +1,10 @@
+#cabecera{
+    height: 5%;
+    width: 76.5%;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    margin-left: 7em;
+    background-color:rgba(202, 160, 241, 0.685);
+    border: 2px solid #ccc;
+    border-radius: 20px;
+}
