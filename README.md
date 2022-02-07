@@ -1,7 +1,6 @@
 # Proyecto-Lista-Tareas-Angular
 
-Firebase: 
-
+Produccion: proyecto-lista-tareas-angular.netlify.app
 
 Este proyecto contiene y es capaz de:
 
